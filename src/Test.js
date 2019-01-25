@@ -1,7 +1,9 @@
 import React, { Component } from "react";
-import { TimelineLite, CSSPlugin, Power4 } from "gsap/all";
+import { TimelineLite, Power4 } from "gsap/all";
 import styled from 'styled-components';
 import Picture from './Assets/984-PosterArt-414b2a2b70c214a2947f5729677d9459.jpg';
+
+
 class Test extends Component {
 	
 	constructor(props){
